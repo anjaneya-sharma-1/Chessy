@@ -1,0 +1,23 @@
+names:
+- B
+- K
+- N
+- P
+- Q
+- R
+- b
+- k
+- n
+- p
+- q
+- r
+nc: 12
+roboflow:
+  license: CC BY 4.0
+  project: chesssense-ai
+  url: https://universe.roboflow.com/mohammad-zaid-p9lpu/chesssense-ai/dataset/3
+  version: 3
+  workspace: mohammad-zaid-p9lpu
+test: test/images
+train: train/images
+val: valid/images
